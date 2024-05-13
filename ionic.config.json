@@ -1,0 +1,7 @@
+{
+  "name": "qr-app-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
